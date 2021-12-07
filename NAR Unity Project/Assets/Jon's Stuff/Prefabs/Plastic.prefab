@@ -1,6 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
-<<<<<<< Updated upstream
 --- !u!1 &5977966142891694902
 =======
 --- !u!1 &1181082272665219977
@@ -12,7 +11,6 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< Updated upstream
   - component: {fileID: 6466553494369157516}
   - component: {fileID: 7931414748973780521}
   - component: {fileID: 5329725355365284579}
@@ -28,7 +26,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< Updated upstream
 --- !u!4 &6466553494369157516
 =======
 --- !u!4 &1959027068746918195
@@ -38,12 +35,10 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
   m_GameObject: {fileID: 5977966142891694902}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 200, y: 200, z: 200}
-=======
   m_GameObject: {fileID: 1181082272665219977}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -53,7 +48,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
 --- !u!33 &7931414748973780521
 =======
 --- !u!33 &3206570803538159254
@@ -63,7 +57,6 @@ MeshFilter:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
   m_GameObject: {fileID: 5977966142891694902}
   m_Mesh: {fileID: -462981019419857548, guid: cfa2ed5df8b1b4940a31a8de16936202, type: 3}
 --- !u!23 &5329725355365284579
@@ -77,7 +70,6 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
   m_GameObject: {fileID: 5977966142891694902}
 =======
   m_GameObject: {fileID: 1181082272665219977}
@@ -86,7 +78,6 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< Updated upstream
   m_StaticShadowCaster: 0
 =======
 >>>>>>> Stashed changes
@@ -98,7 +89,6 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-<<<<<<< Updated upstream
   - {fileID: 2100000, guid: 9246901d313d9074581f7a1cbeea284a, type: 2}
 =======
   - {fileID: 2100000, guid: 2a4ebdf648465c3499cd5f4ea2d7b621, type: 2}

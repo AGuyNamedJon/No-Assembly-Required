@@ -1,5 +1,4 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream
 guid: 059a556236936b04f83997e4186b2833
 ModelImporter:
   serializedVersion: 21100
@@ -40,7 +39,6 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-<<<<<<< Updated upstream
     globalScale: 0.25
 =======
     globalScale: 0.375
@@ -95,7 +93,6 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-<<<<<<< Updated upstream
     globalScale: 0.0025
 =======
     globalScale: 0.00375
