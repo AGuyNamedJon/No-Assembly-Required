@@ -256,7 +256,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7573525526838969468}
   m_Layer: 0
-  m_Name: Stuffing Station w Particles
+  m_Name: Stuffing Station with Particles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
